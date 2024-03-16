@@ -58,5 +58,10 @@ Mostly for FPGA toolkit simulation.
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=soliderkevin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=soliderkevin)](https://github.com/soliderkevin/github-profile-trophy)
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={soliderkevin}&theme={white}&exclude={exclude}
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={soliderkevin}&theme={white}&exclude={exclude}
+
 </div>
 
