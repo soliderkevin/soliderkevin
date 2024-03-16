@@ -1,6 +1,6 @@
 Welcome to my profile,
 
-I'm a novice engineer who trying to figure out how to code,
+I'm a novice engineer who is trying to figure out how to code, also still studying in TKU ECC 
 
 Barely know about anything about debugging (f~f)
 
