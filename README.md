@@ -25,7 +25,8 @@ Mostly for FPGA toolkit simulation.
  
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> ![image](https://github.com/soliderkevin/soliderkevin/assets/98793019/cc655dab-b4dc-4e9a-9f28-ca6a7160e1ed)
+</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
