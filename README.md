@@ -6,12 +6,12 @@
 <h3 align="center">I'm a novice engineer trying on different coding styles, also major in TKU EE</h3>
 
 <div align="center">
-Barely know about anything about debugging (f~f) **
-Recently looking forward to research Digital IC designing. **
-Also have some basic knowledges of Software Coding : C/C++/Python. **
-Hardware Coding: Verilog, VHDL . **
-Simulation software: Vivado, ModelSim,QuartusII. **
-Mostly for FPGA toolkit simulation. **
+**Trying to figure out any strategies about debugging (f~f) **
+**Recently looking forward to research Digital IC designing. **
+**Also have some basic knowledges of Software Coding : C/C++/Python. **
+**Hardware Coding: Verilog, VHDL . **
+**Simulation software: Vivado, ModelSim,QuartusII. **
+**Mostly for FPGA toolkit simulation. **
      </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soliderkevin.soliderkevin" /> 
 
