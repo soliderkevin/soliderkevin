@@ -59,9 +59,7 @@ Mostly for FPGA toolkit simulation.
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=soliderkevin)](https://github.com/soliderkevin/github-profile-trophy)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soliderkevin&theme=white
-
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soliderkevin&theme=white
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={soliderkevin}&theme={theme_name}
 
 </div>
 
