@@ -6,7 +6,11 @@
 <h3 align="center">I'm a novice engineer who is trying to figure out how to code, also major in TKU EE</h3>
 
 Barely know about anything about debugging (f~f)
-
+Recently looking forward to research Digital IC designing.
+Also have some basic knowledges of Software Coding : C/C++/Python
+Hardware Coding: Verilog, VHDL ,
+Simulation software: Vivado, ModelSim,QuartusII
+Mostly for FPGA toolkit simulation.
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soliderkevin.soliderkevin" /> 
 
  </div>
