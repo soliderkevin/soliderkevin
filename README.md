@@ -7,12 +7,6 @@
 
 <div align="center">
 
-</div>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soliderkevin.soliderkevin" /> 
-
- </div>
- 
-
 <div align="center">
  
 Trying to figure out any strategies about debugging (f~f).
@@ -34,9 +28,11 @@ Mostly for FPGA toolkit simulation.
 
  
 <div align="center"> 
-  <a href="mailto:kevinyeh30000@gmail.com">
+  <a href="mailto:409500278@gms.tku.edu.tw">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-
+</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=soliderkevin.soliderkevin" /> 
+ </div>
 
 
