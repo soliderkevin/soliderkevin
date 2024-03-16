@@ -5,7 +5,7 @@
 
 
 <h3 align="center"># 💫 About Me:
-I'm a Noive Electrical Engineer majoring in TKU EE</h3>
+⚡ ⚡ I'm a Noive Electrical Engineer majoring in TKU EE⚡ ⚡ </h3>
 
 <div align="center">
 
