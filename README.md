@@ -29,7 +29,7 @@ Mostly for FPGA toolkit simulation.
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,C++,Vivado" />
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
 </div>
 
