@@ -25,7 +25,7 @@ Mostly for FPGA toolkit simulation.
  
  <hr/>
  
-<h2 align="center"> <Framework Tools>
+<h2 align="center"> Framework Tools
 </h2>
 <br/>
 <div align="center">
