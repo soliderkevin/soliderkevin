@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Profile;+My+Name+Is+soliderkevin!;" />
 </h1>
 
-# 💫 About Me:
 
-<h3 align="center">I'm a novice engineer trying on different coding styles, also major in TKU EE</h3>
+<h3 align="center"># 💫 About Me:
+I'm a novice engineer trying on different coding styles, also major in TKU EE</h3>
 
 <div align="center">
 
