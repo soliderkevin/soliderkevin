@@ -58,5 +58,5 @@ Mostly for FPGA toolkit simulation.
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=soliderkevin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=soliderkevin)](https://github.com/soliderkevin/github-profile-trophy)
