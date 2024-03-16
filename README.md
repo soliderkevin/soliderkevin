@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+To+My+Profile;+My+Name+Is+soliderkevin!;" />
 </h1>
 
+# 💫 About Me:
+
 <h3 align="center">I'm a novice engineer trying on different coding styles, also major in TKU EE</h3>
 
 <div align="center">
@@ -25,7 +27,7 @@ Mostly for FPGA toolkit simulation.
  
  <hr/>
  
-<h2 align="center"> Framework Tools
+<h2 align="center"> 💻Framework Tools💻
 </h2>
 <br/>
 <div align="center">
@@ -49,11 +51,12 @@ Mostly for FPGA toolkit simulation.
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soliderkevin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=soliderkevin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+
 
 
